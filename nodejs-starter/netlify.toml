@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build" # Or whatever command you use to build your frontend
+  publish = "build"
